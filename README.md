@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://arashdevarts.vercel.app/project)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://arashdevarts.vercel.app/)**
 
 - 📫 How to reach me **arashDevArsts@gmail.com**
 
